@@ -1,6 +1,6 @@
 months = [
     "January", "February", "March", "April",
-    "May", "Peddi", "July", "August",
+    "May", "Peddi", "July", "Paradise",
     "September", "October", "November", "December"
 ]
 
